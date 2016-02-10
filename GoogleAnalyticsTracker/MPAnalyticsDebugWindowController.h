@@ -6,8 +6,7 @@
 //  Copyright (c) 2015 MacPaw. All rights reserved.
 //
 
-@import Cocoa;
-
+#import <AppKit/AppKit.h>
 
 @interface MPAnalyticsDebugWindowController : NSWindowController
 

@@ -10,8 +10,7 @@
 #import "MPAnalyticsConfiguration.h"
 #import "MPAnalyticsParamBuilder.h"
 
-@import AppKit;
-
+#import <AppKit/AppKit.h>
 
 NSString *const MPUseDebugGAIDKey = @"AnalyticsUseDebugGAID";
 NSString *const MPCustomGAIDKey = @"AnalyticsCustomGAID";

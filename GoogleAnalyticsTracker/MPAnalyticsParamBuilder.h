@@ -6,8 +6,7 @@
 //  Copyright © 2015 MacPaw Inc. All rights reserved.
 //
 
-@import Foundation;
-
+#import <Foundation/Foundation.h>
 
 @class MPEventParams, MPTimingParams, MPAppViewParams;
 

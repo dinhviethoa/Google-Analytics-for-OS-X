@@ -6,8 +6,7 @@
 //  Copyright (c) 2012 Denis Stas. All rights reserved.
 //
 
-@import Foundation;
-
+#import <Foundation/Foundation.h>
 
 @class MPAnalyticsConfiguration, MPEventParams, MPTimingParams;
 

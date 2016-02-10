@@ -8,8 +8,7 @@
 
 #import "ViewController.h"
 
-@import GoogleAnalyticsTracker;
-
+#import <GoogleAnalyticsTracker/GoogleAnalyticsTracker.h>
 
 @implementation ViewController
 
