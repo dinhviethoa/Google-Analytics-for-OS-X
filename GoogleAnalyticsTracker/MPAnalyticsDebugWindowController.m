@@ -30,11 +30,6 @@ static id _sharedInstance = nil;
     return _sharedInstance;
 }
 
-+ (void)load
-{
-    [self sharedController];
-}
-
 - (instancetype)init
 {
     self = [super init];
